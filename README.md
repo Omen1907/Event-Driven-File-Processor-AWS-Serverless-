@@ -1,6 +1,3 @@
-Here’s a clean, professional **README.md** you can drop straight into your GitHub repo:
-
----
 
 # 📦 S3 Event-Driven File Processor (AWS Serverless)
 
@@ -299,12 +296,6 @@ This project demonstrates:
 ## 📬 Final Thoughts
 
 This project reflects a practical, production-style serverless pattern using AWS services. It shows how simple components can be combined to build powerful, automated systems.
-
----
-
-If you want, I can also:
-
-- Add **architecture diagrams (image for GitHub)**
     
 - Turn this into a **portfolio-grade case study**
     
